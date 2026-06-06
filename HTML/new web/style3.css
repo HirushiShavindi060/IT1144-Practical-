@@ -1,0 +1,64 @@
+header{background-image:url("bike.jpeg");
+	background-position:center;
+	background-size:cover;	
+	background-repeat:no-repeat;
+	height:450px;
+	color:white;
+	font-size:20px;
+	font-family:calibri;
+	position:relative;
+	
+}
+nev{
+	gap:60px;
+	margin:0px 0px;
+	padding:0px;
+	justify-content:space-around;
+	position:absolute;
+	gap:40px;
+}
+	
+ul li {	
+	list-style-type:none;	
+	float:left;
+	margin:0px 10px;
+	margin-left:100px;
+	padding:8px 8px;
+	margin-top:-29px;
+	gap:50px;
+}
+ a{list-style-type:none;
+	color:black;
+	display:flex;
+	text-decoration:none;
+	color:white;	
+	}
+	
+button{font-size:15px;
+		border-radius:100px;
+		width:90px;
+		height:90px;
+		text-align:center;
+		margin-left:700px;
+		margin-top:80px;
+		cursor:pointer;}
+	
+h5{font-family:calibri;
+		font-size:20px;
+		margin-left:800px;
+		margin-top:2px;
+}
+	
+.logo{
+	font-size:20px;
+	font-family:calibri;
+	
+}
+	
+	
+p{font-size:25px;
+font-family:calibri;
+text-align:center;
+margin-left:-450px;
+margin-top:5px;
+}

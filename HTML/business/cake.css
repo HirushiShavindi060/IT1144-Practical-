@@ -1,0 +1,82 @@
+body{
+background-image:url("cakeeeeee.avif");
+background-repeat:no-repeat;
+background-size:cover;
+}
+
+header{display:flex;
+}
+
+
+a{text-decoration:none;
+	color:white;
+	font-family:Consolas;
+	gap:40px 40px 40px 40px;
+}
+
+li{text-decoration:none;
+	display:inline flex;
+	margin-left:150px;
+	margin-top:20px;
+	
+}
+
+ul{text-decoration:none;
+}
+
+h3{
+font-family:Mistral;
+font-size:30px;
+color:white;}
+
+h1{text-align:center;
+font-size:100px;
+color:white;
+margin-top:200px;
+font-family:Chiller;}
+
+
+footer{background-color:black;}
+
+.search{text-align:center;
+}
+
+
+h5{font-family:Mistral;
+   font-size:30px;
+   color:white;
+   text-align:center;
+   margin-top:100px;}
+
+
+h6{color:white;
+font-size:20px;}
+
+
+p{text-align:center;
+font-size:20px;
+color:white;
+font-family:SimSun;}
+
+button{
+	font-size:20px;
+	color:white;
+	height:50px;
+	background-color:orange;
+	border:5px solid orange;
+	font-family:Chiller;
+	border-radius:10px;
+	margin-left:600px;
+	display:inline flex;}
+	
+	
+img{
+	margin-left:100px;
+	border-radius:10px;
+	border:40px solid white;
+	display:inline flex;
+	margin-left:150px;
+	color:white;
+	}
+
+ 

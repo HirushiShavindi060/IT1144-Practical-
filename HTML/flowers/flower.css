@@ -1,0 +1,143 @@
+h3{
+	margin-left:100px;
+	font-family:Mistral;
+	font-size:30px;
+	margin-top:50px;
+}
+
+header{
+	margin:-10px;
+	display:flex;
+	background-image:url("glass.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+
+a {
+	text-decoration:none;
+	color:black;
+	
+}
+
+
+ li{
+	text-decoration:none;
+	display:inline flex;
+	margin:5px;
+	margin-left:200px;
+	margin-top:50px;
+}
+
+	
+h1{
+	font-size:80px;
+	color:#E11C5E;
+	font-family:Showcard Gothic;
+	margin-left:500px;
+}
+
+ h2{
+	font-size:25px;
+	color:#D1B188;
+	margin-left:300px;
+	font-family:Forte;
+}
+
+.p1{
+	font-size:25px;
+	color:black;
+	margin-left:300px;
+	font-family:Forte;
+}
+
+button{
+	font-size:20px;
+	color:white;
+	margin-left:350px;
+	background-color:#D1B188;
+	border-radius:5px;
+}
+
+.box1{
+	margin-left:950px;
+	margin-top:-400px;
+}
+
+body{background-color:#FCEBDE;}
+
+
+.ft1{
+	background-image:url("glass.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	text-align:center;
+	margin-top:10px;
+	font-size:40px;
+	}
+	
+.p2{
+	font-size:20px;
+	color:black;
+	margin-left:-150px;
+	margin-top:-50px;
+	font-family:Forte;
+}
+
+.box2{
+	margin-left:-950px;
+	margin-top:-225px;
+}
+
+h4{
+	font-size:30px;
+	margin-left:100px;
+	margin-top:20px;
+}
+
+h6{
+	font-size:20px;
+	color:#D1B188;
+	margin-left:350px;
+}
+
+.ft2{
+	background-color:white;
+	text-align:center;
+	margin-top:10px;
+	background-image:url("back.webp");
+	background-repeat:no-repeat;
+	background-size:cover;
+	}
+	
+.box3{
+	margin-top:25px;
+	margin-left:-400px;
+}
+
+.box4{
+	margin-top:-200px;
+	margin-left:300px;
+}
+
+.box5{
+	margin-top:-200px;
+	margin-left:1000px;
+}
+
+
+
+.box6{
+	margin-top:-15px;
+	margin-left:-400px;
+}
+
+.box7{
+	margin-top:-200px;
+	margin-left:300px;
+}
+
+.box8{
+	margin-top:-200px;
+	margin-left:990px;
+}

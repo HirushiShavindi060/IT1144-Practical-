@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="stylecf.css">
+</head>
+<body>
+  <header>
+<div class="header">
+<h4>☕coffee</h4>
+</div>
+
+<div class="nevigation">
+<nav>
+	<ul>
+		<li><a href="file:///C:/Users/shavi/Desktop/coffee/coffee.html"><b>Home</b></a></li>
+		<li><a href="file:///C:/Users/shavi/Desktop/coffee/about.html"><b>About</b></a></li>
+		<li><a href="file:///C:/Users/shavi/Desktop/coffee/menu.html"><b>Menu</b></a></li>
+		<li><a href="file:///C:/Users/shavi/Desktop/coffee/contact.html"><b>Contact</b></a></li>
+	</ul>
+</nav>
+</div>
+</header>
+<body>
+
+  <section class="contact">
+   <form id="orderForm">
+
+    <label>Full Name</label><br>
+    <input type="text" name="name" placeholder="Your Name" required><br><br>
+
+    <label>Phone Number</label><br>
+    <input type="text" name="phone" placeholder="Phone Number" required><br><br>
+
+    <label>Delivery Address</label><br>
+    <input type="text" name="address" placeholder="Your Address" required><br><br>
+	  <label>Orders</label><br>
+	<select name="your choice">
+	<option>coffee</option>
+	<option>Ice coffee</option>
+	<option>Black Coffee</option>
+	</select><br><br>
+
+    <label>No of orders</label><br>
+    <input type="number" name="quantity" placeholder="Numbers" required><br><br>
+
+    <label>Payment</label><br>
+    <input type="radio" type="radio" name="payment" value="Card">Card
+    <input type="radio" type="radio" name="payment" value="Cash">Cash
+    <input type="radio" type="radio" name="payment" value="Online Payment">Online Payment<br><br>
+
+    <div class="btn1">
+        <button type="submit">Order Now</button>
+    </div>
+</form>
+
+<div id="orderModal" class="modal">
+  <div class="modal-content">
+    <span class="close-btn">&times;</span>
+    <h2>Your order is successful!</h2>
+    <div id="customerDetails">
+        </div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+<script src="script.js"></script>
+    
+  </section>
+</body>
+  <footer>
+<h5>© 2026 Coffee </h5><br>
+</footer>
+</body>
+</html>
